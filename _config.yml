@@ -16,7 +16,7 @@ timezone: America/Los_Angeles
 
 title: Random Musings # the main title
 
-tagline: \[thought for thought in thoughts if len(thought) > 280\]  # it will display as the subtitle
+tagline: Thoughts greater than 280 char  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   politics, technology and science
