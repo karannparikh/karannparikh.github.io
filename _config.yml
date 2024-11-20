@@ -16,10 +16,10 @@ timezone: America/Los_Angeles
 
 title: Random Musings # the main title
 
-tagline: [thought for thought in thoughts if len(thought) > 280]  # it will display as the subtitle
+tagline: \[thought for thought in thoughts if len(thought) > 280\]  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Boring thoughts that no one in their right minds would want to read.
+  politics, technology and science
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
